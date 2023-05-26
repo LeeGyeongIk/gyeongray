@@ -1,0 +1,13 @@
+body{
+  -ms-overflow-style: none;
+  }
+  
+ ::-webkit-scrollbar {
+   display: none;
+ }
+
+ .main {
+  color: white;
+  display: flex;
+  background-image: url("./아로나.jpg");
+ }
